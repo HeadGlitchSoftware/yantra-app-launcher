@@ -46,9 +46,9 @@
     <string name="arrow_size_description">Enter a size for the terminal Arrow Keys:</string>
     <string name="invalid_arrow_size">Invalid Arrow size!</string>
     <string name="arrow_size_updated">Arrow size updated!</string>
-    <string name="suggestion_font_size_description" tools:ignore="MissingTranslation">Enter a font size for suggestions:</string>
-    <string name="invalid_suggestion_font_size" tools:ignore="MissingTranslation">Invalid font size!</string>
-    <string name="suggestion_font_size_updated" tools:ignore="MissingTranslation">Font size updated!</string>
+    <string name="suggestion_font_size_description">Enter a font size for suggestions:</string>
+    <string name="invalid_suggestion_font_size">Invalid font size!</string>
+    <string name="suggestion_font_size_updated">Font size updated!</string>
     <string name="portrait">Portrait</string>
     <string name="landscape">Landscape</string>
     <string name="system">System</string>
